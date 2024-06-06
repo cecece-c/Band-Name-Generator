@@ -2,11 +2,11 @@
 print("\nWelcome to the Band Name Generator.")
 
 
-# Get city name and store it in 'city' (String)
+# Get city name and store value in 'city' (String)
 city = input("\nWhat's the name of the city you grew up in?\n")
 
 
-# Get pet's name and store it in 'pet' (String)
+# Get pet's name and store value in 'pet' (String)
 pet = input("\nWhat's your pet's name?\n")
 
 
