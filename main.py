@@ -10,5 +10,5 @@ city = input("\nWhat's the name of the city you grew up in?\n")
 pet = input("\nWhat's your pet's name?\n")
 
 
-# Display band name suggestion
+# Display suggestion for band name
 print(f"\nYour band name could be:\n{city.capitalize()} {pet.capitalize()}\n")
