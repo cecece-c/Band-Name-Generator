@@ -1,3 +1,7 @@
+# Import 'time' library
+import time
+
+
 # Display banner
 print("\nWelcome to the Band Name Generator.")
 
@@ -11,4 +15,11 @@ pet = input("\nWhat's your pet's name?\n")
 
 
 # Display suggestion for band name
-print(f"\nYour band name could be:\n{city.capitalize()} {pet.capitalize()}\n")
+print(f"\nYour band name could be:\n{city.capitalize()} {pet.capitalize()}")
+
+
+# Delay exit
+print("\nProgram exiting...")
+for delay in range(5):
+    time.sleep(1)
+exit(0)
