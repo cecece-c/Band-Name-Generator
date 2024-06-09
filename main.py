@@ -22,4 +22,3 @@ print(f"\nYour band name could be:\n{city.capitalize()} {pet.capitalize()}")
 print("\nProgram exiting...")
 for delay in range(5):
     time.sleep(1)
-exit(0)
