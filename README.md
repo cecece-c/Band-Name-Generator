@@ -1,2 +1,2 @@
 # Band Name Generator
-Program suggests a band name.
+Program suggests a band name
