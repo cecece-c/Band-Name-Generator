@@ -18,7 +18,7 @@ pet = input("\nWhat's your pet's name?\n")
 print(f"\nYour band name could be:\n{city.capitalize()} {pet.capitalize()}")
 
 
-# Delay exit
+# Exit program
 print("\nProgram exiting...")
 for delay in range(5):
     time.sleep(1)
